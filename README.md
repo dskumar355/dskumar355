@@ -46,7 +46,8 @@
 - 📌 Data Analysis projects with real datasets  
 - 📌 Machine Learning mini-projects  
 - 📌 SQL practice & analytics queries  
-- 📌 Clean, structured & well-documented notebooks  
+- 📌 **DSA in Java (Learning & Implementation)**  
+- 📌 **LeetCode problem solutions with explanations**  
 
 ---
 
@@ -55,7 +56,17 @@
 - 🧪 Building projects using real-world datasets  
 - 🗄️ Practicing SQL for analytics & interviews  
 - 🎯 Preparing for internships & placements  
-
+- 📚 Learning **Data Structures & Algorithms using Java**
+- 🧠 Implementing core DSA concepts:
+  - Arrays & Strings
+  - Linked Lists
+  - Stacks & Queues
+  - Recursion & Backtracking
+  - Searching & Sorting
+  - Trees & Graphs (Upcoming)
+- 💡 Solving problems on **LeetCode & CodeChef**
+- 🧩 Writing clean, well-commented Java solutions
+- 🚀 Improving logic, time & space complexity understanding
 ---
 
 ## 🔥 GitHub Streak
