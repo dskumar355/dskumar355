@@ -77,8 +77,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
+- 📧 Email: dskumar355@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dharavath-sai-kumar-a98361358/
 - 🌐 GitHub: https://github.com/dskumar355  
 
 ---
