@@ -4,8 +4,7 @@
 <p align="center">
 📊 Data • 🤖 Machine Learning • 📈 Analytics
 </p>
-
----
+----
 
 ## 👨‍💻 About Me
 - 🎓 Data Analytics & Computer Science student  
@@ -17,6 +16,7 @@
 ---
 
 ## 🛠️ Technical Skills
+
 
 ### 🔹 Programming & Query Languages
 - Python  
